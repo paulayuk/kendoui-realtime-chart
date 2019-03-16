@@ -1,7 +1,5 @@
 const express = require('express')
 const app = express()
-const PubNub = require('pubnub');
-const comments = require('./comments.js');
 
 
 //middlewares
